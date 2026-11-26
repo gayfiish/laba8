@@ -1,0 +1,7 @@
+.vs/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+tasks.json
