@@ -17,3 +17,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 [tool.poetry.scripts]
 laba8-cli = "laba8.cli:main"
+laba8-tasks = "laba8.tasks_cli:main"
